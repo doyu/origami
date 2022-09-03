@@ -1,4 +1,4 @@
-![origami.png]
+![ORIGAMI](origami.png)
 
 ## Summary of Business
 Add a description that is about the length of an evelvator pitch for the business.

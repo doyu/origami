@@ -75,8 +75,5 @@ Here we'll introduce "TinyML" and "TinyML as-a-Service", running ML inferences o
 
 ## Founders
 <!-- Team members -->
-* NAME, TITLE
-* NAME, TITLE
-* NAME, TITLE
-* NAME, TITLE
-* NAME, TITLE
+* [Hiroshi Doyu](https://www.linkedin.com/in/hidoyu/), Project Lead
+* Haruka Doyu, Developer

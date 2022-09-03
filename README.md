@@ -1,10 +1,9 @@
 ![ORIGAMI](origami.png)
 
 ## Summary of Business
-Helping customers to run their Machine Learning (ML) inferences on the very deepest IoT edge without depending higly on network and Could ML. "TinyML as-a-Service" is orchestrating ML inferences running onto IoT sensors on the fly.
+Here we'll introduce "TinyML" and "TinyML as-a-Service", running ML inferences on microcontrollers in IoT sensors, which won't rely on network and Cloud unnecessarily. This would enable new secure and energy efficient use cases of ML applications (e.g., military, healthcare and maritime scenarios).  Origami aims to solve the problem that current Machine Learning (ML) systems always run-on big Cloud GPUs, which highly relies on network (latency, throughput, and reliability). This network dependency sometimes restricts potential ML use cases. Also moving sensor data from on-premises to the cloud isn't always ensured securely. For further information please check their YouTube Video, https://youtu.be/m2sHB4DOfMg
 
 ## Business Model Canvas
-Here we'll introduce "TinyML" and "TinyML as-a-Service", running ML inferences on microcontrollers in IoT sensors, which won't rely on network and Cloud unnecessarily. This would enable new secure and energy efficient use cases of ML applications (e.g., military, healthcare and maritime scenarios).  Origami aims to solve the problem that current Machine Learning (ML) systems always run-on big Cloud GPUs, which highly relies on network (latency, throughput, and reliability). This network dependency sometimes restricts potential ML use cases. Also moving sensor data from on-premises to the cloud isn't always ensured securely. For further information please check their YouTube Video, https://youtu.be/m2sHB4DOfMg
 
 <table>
   <tr>

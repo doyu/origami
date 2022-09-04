@@ -4,7 +4,7 @@
 Here we'll introduce [TinyML](https://www.tinyml.org/) and [TinyML as-a-Service](https://www.ericsson.com/en/blog?query=TinyML), running Machine Learning (ML) inferences on microcontrollers in IoT sensors, which won't rely on network and Cloud unnecessarily. This would enable new secure and energy efficient use cases of ML applications (e.g., military, healthcare and maritime scenarios). Origami aims to solve the problem that current Machine Learning (ML) systems always run-on big Cloud GPUs, which highly relies on network (latency, throughput, and reliability). This network dependency sometimes restricts potential ML use cases. Also moving sensor data from on-premises to the cloud isn't always ensured securely. For further information please check their YouTube Video, https://youtu.be/m2sHB4DOfMg
 
 ## Business Model Canvas
-
+You can find the detailed version in https://mm.tt/2405741113?t=4rAsm6kh6e
 <table>
   <tr>
     <td rowspan="2">
@@ -23,11 +23,11 @@ Here we'll introduce [TinyML](https://www.tinyml.org/) and [TinyML as-a-Service]
     <td rowspan="2" colspan="2">
       <b><a href="Value_Propositions.md">Value Propositions</a></b>
       <p>What value do we deliver to the customer?<br>
-      Which one of our customer's problems are we helping to solve?<br>
-      What bundles of products and services are we offering to each Customer Segment?<br>
-      are different and <br>
-      worth paying <br>
-      attention</p>
+      Security enhanced ML<br>
+      Network cost reduction in ML<br>
+      Privacy protection in ML <br>
+      Wider ML reachability<br>
+      Energy efficiency in IoT sensors</p>
       <br><br><br><br><br>
     </td>
     <td>
